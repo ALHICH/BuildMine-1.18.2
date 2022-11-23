@@ -1,2 +1,6 @@
 saves/
 logs/
+crash-reports/
+backups/
+usercache.json
+usernamecache.json
