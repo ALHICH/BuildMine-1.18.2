@@ -13,7 +13,7 @@ realmsNotifications:false
 reducedDebugInfo:false
 showSubtitles:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -125,7 +125,7 @@ key_key.journeymap.fullscreen.south:key.keyboard.down
 key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.h
-soundCategory_master:0.22569537
+soundCategory_master:0.30546358
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
