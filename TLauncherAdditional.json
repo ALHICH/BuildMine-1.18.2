@@ -1,0 +1,138 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "additionalFiles": [
+    {
+      "sha1": "c649df7e8dfbff5b8e571f5a37a0cb755119eb77",
+      "size": 16166247,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar"
+    },
+    {
+      "sha1": "2b8907919c1d51fda0b2ace0eba8a8b73855198f",
+      "size": 10909711,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar"
+    },
+    {
+      "sha1": "a661c6a55a0600bd391bdbbd6827654c05b2109c",
+      "size": 6716693,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-mappings.txt"
+    },
+    {
+      "sha1": "52e1b15676c03b5e1b769f5bd7d89426e9807c89",
+      "size": 9349972,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar"
+    },
+    {
+      "sha1": "ef36babe985e1e4d0c0771304ad5e889a0813116",
+      "size": 2538801,
+      "path": "libraries/net/minecraftforge/forge/1.18.2-40.1.84/forge-1.18.2-40.1.84-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.18.2-40.1.84/forge-1.18.2-40.1.84-universal.jar"
+    },
+    {
+      "sha1": "f607485a42c6c8b11ea68cb670b3cd78482cbf5b",
+      "size": 5120064,
+      "path": "libraries/net/minecraftforge/forge/1.18.2-40.1.84/forge-1.18.2-40.1.84-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.18.2-40.1.84/forge-1.18.2-40.1.84-client.jar"
+    },
+    {
+      "sha1": "747c8df870fa2fd0ca766f624ebc28d0a03ab8a5",
+      "size": 109984,
+      "path": "libraries/net/minecraftforge/fmlcore/1.18.2-40.1.84/fmlcore-1.18.2-40.1.84.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.18.2-40.1.84/fmlcore-1.18.2-40.1.84.jar"
+    },
+    {
+      "sha1": "186c58367889d719f6bc3705ff0826712380bcea",
+      "size": 16293,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.18.2-40.1.84/javafmllanguage-1.18.2-40.1.84.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.18.2-40.1.84/javafmllanguage-1.18.2-40.1.84.jar"
+    },
+    {
+      "sha1": "33db9a422c2f7b53fec27707bb4d3f1e59b3ec55",
+      "size": 4988,
+      "path": "libraries/net/minecraftforge/mclanguage/1.18.2-40.1.84/mclanguage-1.18.2-40.1.84.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.18.2-40.1.84/mclanguage-1.18.2-40.1.84.jar"
+    },
+    {
+      "sha1": "7e15a3b7746b4b3f87179e0e9f8cefefc635f83e",
+      "size": 7383,
+      "path": "libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.1.84/lowcodelanguage-1.18.2-40.1.84.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/lowcodelanguage/1.18.2-40.1.84/lowcodelanguage-1.18.2-40.1.84.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -84204145589100,
+    "name": "BuildMine 1.18.2",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": -151379820566700,
+          "name": "journeymap-1.18.2-5.9.0beta3-forge",
+          "favorite": false,
+          "version": {
+            "id": -151379857303300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "1b59279e9743ac54b146e2f64db198818fa18790",
+              "size": 6978423,
+              "path": "mods/journeymap-1.18.2-5.9.0beta3-forge.jar",
+              "url": "mods/journeymap-1.18.2-5.9.0beta3-forge.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -151379857400900,
+          "name": "WorldEdit-7.2.10-Forge-Fabric-for-MC-1.18.2",
+          "favorite": false,
+          "version": {
+            "id": -151379877096100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "40fc7f7a734ccbd53365bc91c1a17fafcec1965d",
+              "size": 5500682,
+              "path": "mods/WorldEdit-7.2.10-Forge-Fabric-for-MC-1.18.2.jar",
+              "url": "mods/WorldEdit-7.2.10-Forge-Fabric-for-MC-1.18.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "gameVersionDTO": {
+        "id": 35,
+        "name": "1.18.2"
+      },
+      "forgeVersionDTO": {
+        "id": 3352,
+        "name": "40.1.84"
+      },
+      "id": -84204145594801,
+      "name": "1.0",
+      "available": false
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.18.2",
+  "skinVersion": false
+}

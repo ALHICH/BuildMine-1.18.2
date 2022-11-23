@@ -1,0 +1,22 @@
+{
+  "id": "Start_-762-301-412",
+  "name": "Start",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16712169-waypoint-icon.png",
+  "x": -762,
+  "y": 301,
+  "z": 412,
+  "r": 0,
+  "g": 254,
+  "b": 23,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

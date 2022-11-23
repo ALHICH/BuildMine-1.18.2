@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-11-22 17:59:24 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-11-22 17:59:18 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
